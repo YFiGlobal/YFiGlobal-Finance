@@ -25,16 +25,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   YFIG: {
-    56: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
+    3: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
   },
   masterChef: {
-    56: '0x47eBB1fef51820aF68457289274F760bf56B29A5',
+    3: '0x47eBB1fef51820aF68457289274F760bf56B29A5',
   },
   weth: {
-    56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
+    3: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
   },
   xYFIG: {
-    56: '0x8b3ed31890c922ff021e379127e7306c52abb835'
+    3: '0x8b3ed31890c922ff021e379127e7306c52abb835'
   }
 }
 
@@ -45,7 +45,7 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      56: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
+      3: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
     },
     tokenAddresses: {
       56: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
@@ -58,10 +58,10 @@ export const supportedPools = [
   {
     pid: 1,
     lpAddresses: {
-      56: '0x3a556635395d50f7f4c6347d668bebc660dc9e49',
+      3: '0x3a556635395d50f7f4c6347d668bebc660dc9e49',
     },
     tokenAddresses: {
-      56: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
+      3: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
     },
     name: 'YFIG Horse!',
     symbol: 'YFIG-BNB LP',
@@ -71,10 +71,10 @@ export const supportedPools = [
   {
     pid: 2,
     lpAddresses: {
-      56: '0x51e09cd452ebfe645c68b91b5be90f5af337c894',
+      3: '0x51e09cd452ebfe645c68b91b5be90f5af337c894',
     },
     tokenAddresses: {
-      56: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
+      3: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
     },
     name: 'Cake Party!',
     symbol: 'Cake Token',
@@ -84,10 +84,10 @@ export const supportedPools = [
   {
     pid: 3,
     lpAddresses: {
-      56: '0x3a556635395d50f7f4c6347d668bebc660dc9e49',
+      3: '0x3a556635395d50f7f4c6347d668bebc660dc9e49',
     },
     tokenAddresses: {
-      56: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
+      3: '0xb4f7c1ef0465c8d88f4c52a4c9c9c21de8ad6a3d',
     },
     name: 'TWT Tiger!',
     symbol: 'TWT Token',
