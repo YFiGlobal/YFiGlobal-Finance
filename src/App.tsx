@@ -51,9 +51,9 @@ const Providers: React.FC = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <UseWalletProvider
-        chainId={56}
+        chainId={1}
         connectors={{
-          walletconnect: { rpcUrl: 'https://bsc-dataseed1.defibit.io' },
+          walletconnect: { rpcUrl: 'eth' },
         }}
       >
         <YFIGProvider>
